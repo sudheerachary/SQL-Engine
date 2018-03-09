@@ -1,2 +1,3 @@
 # SQL-Engine
-Mini-SQL engine which will run a subset of SQL Queries using ​ command line interface​
+
+  - ***Mini-SQL*** engine in ***Python*** which will run a subset of SQL Queries using command line interface.
