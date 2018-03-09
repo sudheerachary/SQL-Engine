@@ -1,0 +1,17 @@
+<begin_table>
+table1
+A
+B
+C
+<end_table>
+<begin_table>
+table2
+B
+D
+<end_table>
+<begin_table>
+table3
+D
+E
+F
+<end_table>
